@@ -21,4 +21,4 @@
 
 ### 📫 Contato
 📧 [vinicius.sanoliver@gmail.com](mailto:vinicius.sanoliver@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-oliveira-dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-oliveira-vso/)
