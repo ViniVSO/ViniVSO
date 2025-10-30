@@ -1,30 +1,21 @@
-# 👋 Olá! Eu sou o Vinicius Oliveira  
+# Vinicius Oliveira  
 
-🎓 Estudante de Desenvolvimento de Software  
-💻 Foco em **Java e Spring Boot**  
+🎓 Sou Estudante de Análise e Desenvolvimento de Software na FATEC Carapicuíba
+💻 Desenvolvimento em **Java e Spring Boot** 
 🎯 Buscando **estágio em desenvolvimento backend**  
 
 ---
 
 ### 🛠️ Tecnologias e ferramentas
-- **Linguagens:** Java, JavaScript, SQL  
-- **Frameworks:** Spring Boot, Hibernate, JUnit  
-- **Banco de dados:** MySQL, PostgreSQL  
-- **Ferramentas:** Git, IntelliJ IDEA, Maven  
-
+**Backend:** Java, Spring Boot, Hibernate, JUnit  
+**Frontend:** Next.js, React, TypeScript, TailwindCSS  
+**Banco de Dados:** SQL Server, MySQL & PostgreSQL  
+**Outros:** Git & Docker  
 ---
 
 ### 🚀 Projetos recentes
-- [Gerenciador de Tarefas (API REST)](#)  
-  API em Spring Boot com CRUD completo e integração com MySQL.  
-
-- [Sistema de Login com JWT](#)  
-  Autenticação e autorização seguras com Spring Security.  
-
-*(vou preencher os links quando subir os projetos 😉)*
-
 ---
 
 ### 📫 Contato
 📧 [vinicius.sanoliver@gmail.com](mailto:vinicius.sanoliver@gmail.com)  
-💼 [LinkedIn](#)
+💼 [LinkedIn](www.linkedin.com/in/vinicius-oliveira-vso)
