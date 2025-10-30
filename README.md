@@ -11,6 +11,7 @@
 **Frontend:** Next.js, React, TypeScript, TailwindCSS  
 **Banco de Dados:** SQL Server, MySQL & PostgreSQL  
 **Outros:** Git & Docker  
+
 ---
 
 ### 🚀 Projetos recentes
