@@ -21,4 +21,4 @@
 
 ### 📫 Contato
 📧 [vinicius.sanoliver@gmail.com](mailto:vinicius.sanoliver@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/vinicius-oliveira-vso/)
+💼 [LinkedIn](https://www.linkedin.com/in/vinicius-oliveira-vso/)
