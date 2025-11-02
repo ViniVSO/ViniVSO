@@ -14,9 +14,9 @@
 
 ---
 
-### 🚀 Projetos recentes
-📌 *Em breve adicionarei meus projetos em Java e Next.js aqui!*
-
+### 🚀 Projetos
+- 🎬 [Top Movie Catalog](https://github.com/ViniVSO/top-movie) - Java Spring Boot, CRUD de filmes + integração com TMDb
+- 🌐 [Cementizio Landing Page](https://www.cementizio.com.br/) - Landing page desenvolvida para a empreza Cementizio em Next.js com TailwindCSS
 ---
 
 ### 📫 Contato
